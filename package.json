@@ -1,0 +1,14 @@
+{
+	"name": "add2weeklyjs",
+	"title": "Add2WeeklyJS",
+	"id": "jid1-GM7dzMChcV6rFQ",
+	"description": "Add a link to BrazilJS weekly suggestions.",
+	"author": "Pedro Cardoso da Silva (@HallyuWorldWave), Ademílson F. Tonato (@FTonato)",
+	"permissions": {
+		"private-browsing": true
+	},
+	"homepage": "https://github.com/forsureitsme/firefox-add2weeklyjs",
+	"icon": "./data/icon-64.png",
+	"license": "MPL 2.0",
+	"version": "1"
+}
